@@ -1,9 +1,9 @@
 
-Hola Mundo! 👋
+                                                                        Hola Mundo! 👋
 Soy Claudio Gabriel Luexn Espioza
 Jr. Developer 
 🎯 Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT🚀
- 
+<br>
 const perfil = [
     "Programador de aplicaciones web",
     "Sólidos conocimientos de lógica de programación"
